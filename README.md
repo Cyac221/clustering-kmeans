@@ -104,7 +104,7 @@ Download `OnlineRetail.csv` from [Kaggle](https://www.kaggle.com/datasets/vijayu
 ### 5. Run the notebook
 
 ```bash
-jupyter notebook segmentacion_clientes.ipynb
+jupyter notebook script.ipynb
 ```
 
 Run all cells from top to bottom. Output parquet file will be saved to `data/out/`.
